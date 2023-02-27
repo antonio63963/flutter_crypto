@@ -1,0 +1,1 @@
+export './view/Crypto_coin_sreen.dart';
