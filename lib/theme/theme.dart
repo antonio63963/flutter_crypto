@@ -4,6 +4,7 @@ final darkTheme = ThemeData(
   primarySwatch: Colors.orange,
   scaffoldBackgroundColor: const Color.fromARGB(255, 37, 37, 37),
   appBarTheme: const AppBarTheme(
+    elevation: 0,
     backgroundColor: Color.fromARGB(255, 37, 37, 37),
     titleTextStyle: TextStyle(
       color: Colors.white,
