@@ -1,6 +1,5 @@
 import 'package:crypto_list/repositories/crypto_coins/models/models.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
 
 import 'package:crypto_list/features/crypto_coin/crypto_coin.dart';
 

@@ -1,1 +1,1 @@
-export './Crypto_coin_sreen.dart';
+export 'crypto_coin_sreen.dart';
